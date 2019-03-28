@@ -1,0 +1,376 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c2e2a43f-15c7-40e8-823e-389d92f2b122" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../JavaAnnotations/.idea/artifacts/JavaAnnotations_war_exploded.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaAnnotations/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaAnnotations/.idea/libraries/JAX_WS_Glassfish___JAX_WS_2_2_RI___Metro_1_X___JWSDP_2_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaAnnotations/.idea/libraries/JBoss_Weld_2_0_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaAnnotations/.idea/libraries/JPA_2_0_2_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaAnnotations/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaAnnotations/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaAnnotations/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaAnnotations/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaAnnotations/JavaAnnotations.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaAnnotations/lib/FastInoset.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaAnnotations/lib/cdi-api-javadoc.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaAnnotations/lib/cdi-api-sources.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaAnnotations/lib/cdi-api.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaAnnotations/lib/gmbal-api-only.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaAnnotations/lib/ha-api.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaAnnotations/lib/javax.annotation.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaAnnotations/lib/javax.persistence.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaAnnotations/lib/jaxb-api.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaAnnotations/lib/jaxb-impl.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaAnnotations/lib/jaxb-xjc.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaAnnotations/lib/jaxws-api.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaAnnotations/lib/jaxws-rt.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaAnnotations/lib/jaxws-tools.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaAnnotations/lib/jsr181-api.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaAnnotations/lib/mail.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaAnnotations/lib/management-api.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaAnnotations/lib/mimepull.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaAnnotations/lib/policy.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaAnnotations/lib/saaj-api.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaAnnotations/lib/saaj-impl.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaAnnotations/lib/stax-ex.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaAnnotations/lib/stax2-api.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaAnnotations/lib/streambuffer.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaAnnotations/lib/weld-api-javadoc.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaAnnotations/lib/weld-api-sources.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaAnnotations/lib/weld-api.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaAnnotations/lib/weld-core-impl-javadoc.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaAnnotations/lib/weld-core-impl-sources.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaAnnotations/lib/weld-core-impl.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaAnnotations/lib/weld-core-javadoc.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaAnnotations/lib/weld-core-jsf-javadoc.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaAnnotations/lib/weld-core-jsf-sources.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaAnnotations/lib/weld-core-jsf.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaAnnotations/lib/weld-core-sources.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaAnnotations/lib/weld-core.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaAnnotations/lib/weld-se-core-javadoc.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaAnnotations/lib/weld-se-core-sources.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaAnnotations/lib/weld-se-core.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaAnnotations/lib/weld-se-sources.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaAnnotations/lib/weld-se.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaAnnotations/lib/weld-servlet-core-javadoc.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaAnnotations/lib/weld-servlet-core-sources.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaAnnotations/lib/weld-servlet-core.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaAnnotations/lib/weld-servlet-javadoc.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaAnnotations/lib/weld-servlet-sources.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaAnnotations/lib/weld-servlet.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaAnnotations/lib/weld-spi-javadoc.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaAnnotations/lib/weld-spi-sources.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaAnnotations/lib/weld-spi.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaAnnotations/lib/woodstox-core-asl.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaAnnotations/out/production/JavaAnnotations/Furious.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaAnnotations/out/production/JavaAnnotations/META-INF/persistence.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaAnnotations/out/production/JavaAnnotations/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaAnnotations/out/production/JavaAnnotations/TestClass.class" beforeDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/ee/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="4" column="18" selection-start-line="4" selection-start-column="18" selection-end-line="4" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/ee/RestEndpoint.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="8" column="19" lean-forward="true" selection-start-line="8" selection-start-column="19" selection-end-line="8" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/se/Furious.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="9" column="18" selection-start-line="9" selection-start-column="18" selection-end-line="9" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/se/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/se/TestClass.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="45">
+              <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/ee/LogRestCalls.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="30">
+              <caret line="2" column="25" selection-start-line="2" selection-start-column="25" selection-end-line="2" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>val</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="nomikosi &lt;nomikosi@thefuriousprogrammer.com&gt;" />
+      </list>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/java-annotations.iml" />
+        <option value="$PROJECT_DIR$/src/ee/RestLogger.java" />
+        <option value="$PROJECT_DIR$/src/ee/RestEndpoint.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="452" />
+    <option name="y" value="48" />
+    <option name="width" value="1360" />
+    <option name="height" value="798" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="java-annotations" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java-annotations" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java-annotations" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java-annotations" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java-annotations" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java-annotations" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java-annotations" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java-annotations" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java-annotations" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java-annotations" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="se" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.ide.settings.notifications" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c2e2a43f-15c7-40e8-823e-389d92f2b122" name="Default Changelist" comment="" />
+      <created>1553553000830</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1553553000830</updated>
+      <workItem from="1553553005595" duration="4778000" />
+    </task>
+    <task id="LOCAL-00001" summary="update project">
+      <created>1553802088252</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1553802088252</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="4778000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="452" y="48" width="1360" height="798" extended-state="0" />
+    <layout>
+      <window_info id="Persistence" side_tool="true" />
+      <window_info id="Designer" />
+      <window_info id="Learn" weight="0.32952815" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info id="EJB" side_tool="true" />
+      <window_info id="JavaEE:App" side_tool="true" />
+      <window_info id="Web" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24961948" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" visible="true" weight="0.32884902" />
+      <window_info anchor="bottom" id="Java Enterprise" />
+      <window_info anchor="bottom" id="Database Changes" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="CDI" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="Maven" />
+      <window_info anchor="right" id="Palette&#9;" />
+      <window_info anchor="right" id="Bean Validation" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="update project" />
+    <option name="LAST_COMMIT_MESSAGE" value="update project" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/java/ee/LogRestCalls.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="25" selection-start-line="2" selection-start-column="25" selection-end-line="2" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java-annotations.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="392">
+          <caret line="49" column="3" selection-start-line="49" selection-start-column="3" selection-end-line="49" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="20" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ee/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="18" selection-start-line="4" selection-start-column="18" selection-end-line="4" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ee/RestEndpoint.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="19" lean-forward="true" selection-start-line="8" selection-start-column="19" selection-end-line="8" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/se/Furious.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="9" column="18" selection-start-line="9" selection-start-column="18" selection-end-line="9" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/se/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/se/TestClass.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
